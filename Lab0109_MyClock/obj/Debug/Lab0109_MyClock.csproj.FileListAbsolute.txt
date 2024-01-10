@@ -1,0 +1,10 @@
+A:\MISIT\ADONET\ADONET\Lab0109_MyClock\bin\Debug\Lab0109_MyClock.exe.config
+A:\MISIT\ADONET\ADONET\Lab0109_MyClock\bin\Debug\Lab0109_MyClock.exe
+A:\MISIT\ADONET\ADONET\Lab0109_MyClock\bin\Debug\Lab0109_MyClock.pdb
+A:\MISIT\ADONET\ADONET\Lab0109_MyClock\obj\Debug\Lab0109_MyClock.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\ADONET\Lab0109_MyClock\obj\Debug\Lab0109_MyClock.Form1.resources
+A:\MISIT\ADONET\ADONET\Lab0109_MyClock\obj\Debug\Lab0109_MyClock.Properties.Resources.resources
+A:\MISIT\ADONET\ADONET\Lab0109_MyClock\obj\Debug\Lab0109_MyClock.csproj.GenerateResource.cache
+A:\MISIT\ADONET\ADONET\Lab0109_MyClock\obj\Debug\Lab0109_MyClock.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\ADONET\Lab0109_MyClock\obj\Debug\Lab0109_MyClock.exe
+A:\MISIT\ADONET\ADONET\Lab0109_MyClock\obj\Debug\Lab0109_MyClock.pdb

@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5941CAAC-FA50-49AD-A5A9-4BAF371E8268}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MISIT_ADONET0108</RootNamespace>
+    <AssemblyName>MISIT_ADONET0108</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NorthwindDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NorthwindDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="NorthwindDataSet.xsc">
+      <DependentUpon>NorthwindDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="NorthwindDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NorthwindDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NorthwindDataSet.xss">
+      <DependentUpon>NorthwindDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\DataSources\Form1.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.Alphabetical_list_of_productsTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.CategoriesTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.Category_Sales_for_1997TableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.Current_Product_ListTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.CustomerCustomerDemoTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.CustomerDemographicsTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.CustomersTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.Customer_and_Suppliers_by_CityTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.CustOrderHistTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.CustOrdersDetailTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.CustOrdersOrdersTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.EmployeesTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.EmployeeTerritoriesTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.Employee_Sales_by_CountryTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.InvoicesTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.OrdersTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.Orders_QryTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.Order_DetailsTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.Order_Details_ExtendedTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.Order_SubtotalsTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.ProductsTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.Products_Above_Average_PriceTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.Products_by_CategoryTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.Product_Sales_for_1997TableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.Quarterly_OrdersTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.RegionTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.SalesByCategoryTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.Sales_by_CategoryTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.Sales_by_YearTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.Sales_Totals_by_AmountTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.ShippersTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.Summary_of_Sales_by_QuarterTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.Summary_of_Sales_by_YearTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.SuppliersTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.TableAdapterManager+UpdateOrderOption.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.TableAdapterManager.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.Ten_Most_Expensive_ProductsTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.NorthwindDataSetTableAdapters.TerritoriesTableAdapter.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.Properties.Resources.datasource" />
+    <None Include="Properties\DataSources\MISIT_ADONET0108.Properties.Settings.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Alphabetical_list_of_productsDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Alphabetical_list_of_productsRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Alphabetical_list_of_productsRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Alphabetical_list_of_productsRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CategoriesDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CategoriesRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CategoriesRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CategoriesRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Category_Sales_for_1997DataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Category_Sales_for_1997Row.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Category_Sales_for_1997RowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Category_Sales_for_1997RowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Current_Product_ListDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Current_Product_ListRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Current_Product_ListRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Current_Product_ListRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustomerCustomerDemoDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustomerCustomerDemoRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustomerCustomerDemoRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustomerCustomerDemoRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustomerDemographicsDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustomerDemographicsRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustomerDemographicsRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustomerDemographicsRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustomersDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustomersRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustomersRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustomersRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Customer_and_Suppliers_by_CityDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Customer_and_Suppliers_by_CityRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Customer_and_Suppliers_by_CityRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Customer_and_Suppliers_by_CityRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustOrderHistDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustOrderHistRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustOrderHistRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustOrderHistRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustOrdersDetailDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustOrdersDetailRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustOrdersDetailRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustOrdersDetailRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustOrdersOrdersDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustOrdersOrdersRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustOrdersOrdersRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.CustOrdersOrdersRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.EmployeesDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.EmployeesRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.EmployeesRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.EmployeesRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.EmployeeTerritoriesDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.EmployeeTerritoriesRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.EmployeeTerritoriesRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.EmployeeTerritoriesRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Employee_Sales_by_CountryDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Employee_Sales_by_CountryRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Employee_Sales_by_CountryRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Employee_Sales_by_CountryRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.InvoicesDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.InvoicesRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.InvoicesRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.InvoicesRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.OrdersDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.OrdersRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.OrdersRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.OrdersRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Orders_QryDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Orders_QryRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Orders_QryRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Orders_QryRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Order_DetailsDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Order_DetailsRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Order_DetailsRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Order_DetailsRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Order_Details_ExtendedDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Order_Details_ExtendedRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Order_Details_ExtendedRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Order_Details_ExtendedRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Order_SubtotalsDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Order_SubtotalsRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Order_SubtotalsRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Order_SubtotalsRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.ProductsDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.ProductsRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.ProductsRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.ProductsRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Products_Above_Average_PriceDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Products_Above_Average_PriceRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Products_Above_Average_PriceRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Products_Above_Average_PriceRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Products_by_CategoryDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Products_by_CategoryRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Products_by_CategoryRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Products_by_CategoryRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Product_Sales_for_1997DataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Product_Sales_for_1997Row.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Product_Sales_for_1997RowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Product_Sales_for_1997RowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Quarterly_OrdersDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Quarterly_OrdersRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Quarterly_OrdersRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Quarterly_OrdersRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.RegionDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.RegionRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.RegionRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.RegionRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.SalesByCategoryDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.SalesByCategoryRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.SalesByCategoryRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.SalesByCategoryRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Sales_by_CategoryDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Sales_by_CategoryRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Sales_by_CategoryRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Sales_by_CategoryRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Sales_by_YearDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Sales_by_YearRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Sales_by_YearRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Sales_by_YearRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Sales_Totals_by_AmountDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Sales_Totals_by_AmountRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Sales_Totals_by_AmountRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Sales_Totals_by_AmountRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.ShippersDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.ShippersRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.ShippersRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.ShippersRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Summary_of_Sales_by_QuarterDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Summary_of_Sales_by_QuarterRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Summary_of_Sales_by_QuarterRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Summary_of_Sales_by_QuarterRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Summary_of_Sales_by_YearDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Summary_of_Sales_by_YearRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Summary_of_Sales_by_YearRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Summary_of_Sales_by_YearRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.SuppliersDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.SuppliersRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.SuppliersRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.SuppliersRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Ten_Most_Expensive_ProductsDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Ten_Most_Expensive_ProductsRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Ten_Most_Expensive_ProductsRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.Ten_Most_Expensive_ProductsRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.TerritoriesDataTable.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.TerritoriesRow.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.TerritoriesRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\NorthwindDataSet.TerritoriesRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\Program.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

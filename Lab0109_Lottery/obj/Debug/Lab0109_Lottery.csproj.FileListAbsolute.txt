@@ -1,0 +1,10 @@
+A:\MISIT\ADONET\ADONET\Lab0109_Lottery\bin\Debug\Lab0109_Lottery.exe.config
+A:\MISIT\ADONET\ADONET\Lab0109_Lottery\bin\Debug\Lab0109_Lottery.exe
+A:\MISIT\ADONET\ADONET\Lab0109_Lottery\bin\Debug\Lab0109_Lottery.pdb
+A:\MISIT\ADONET\ADONET\Lab0109_Lottery\obj\Debug\Lab0109_Lottery.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\ADONET\Lab0109_Lottery\obj\Debug\Lab0109_Lottery.Properties.Resources.resources
+A:\MISIT\ADONET\ADONET\Lab0109_Lottery\obj\Debug\Lab0109_Lottery.csproj.GenerateResource.cache
+A:\MISIT\ADONET\ADONET\Lab0109_Lottery\obj\Debug\Lab0109_Lottery.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\ADONET\Lab0109_Lottery\obj\Debug\Lab0109_Lottery.exe
+A:\MISIT\ADONET\ADONET\Lab0109_Lottery\obj\Debug\Lab0109_Lottery.pdb
+A:\MISIT\ADONET\ADONET\Lab0109_Lottery\obj\Debug\Lab0109_Lottery.Form1.resources

@@ -1,0 +1,10 @@
+A:\MISIT\ADONET\ADONET\Lab0109_Counter\bin\Debug\Lab0109_Counter.exe.config
+A:\MISIT\ADONET\ADONET\Lab0109_Counter\bin\Debug\Lab0109_Counter.exe
+A:\MISIT\ADONET\ADONET\Lab0109_Counter\bin\Debug\Lab0109_Counter.pdb
+A:\MISIT\ADONET\ADONET\Lab0109_Counter\obj\Debug\Lab0109_Counter.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\ADONET\Lab0109_Counter\obj\Debug\Lab0109_Counter.Form1.resources
+A:\MISIT\ADONET\ADONET\Lab0109_Counter\obj\Debug\Lab0109_Counter.Properties.Resources.resources
+A:\MISIT\ADONET\ADONET\Lab0109_Counter\obj\Debug\Lab0109_Counter.csproj.GenerateResource.cache
+A:\MISIT\ADONET\ADONET\Lab0109_Counter\obj\Debug\Lab0109_Counter.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\ADONET\Lab0109_Counter\obj\Debug\Lab0109_Counter.exe
+A:\MISIT\ADONET\ADONET\Lab0109_Counter\obj\Debug\Lab0109_Counter.pdb

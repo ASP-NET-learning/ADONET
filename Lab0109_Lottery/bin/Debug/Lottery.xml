@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<Lottery xmlns="http://tempuri.org/Lottery.xsd">
+  <Pick3>
+    <Pick3Id>2</Pick3Id>
+    <Text>932</Text>
+  </Pick3>
+  <Pick3>
+    <Pick3Id>3</Pick3Id>
+    <Text>368</Text>
+  </Pick3>
+  <Pick3>
+    <Pick3Id>4</Pick3Id>
+    <Text>753</Text>
+  </Pick3>
+</Lottery>

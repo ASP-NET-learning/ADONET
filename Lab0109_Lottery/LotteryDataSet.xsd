@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="LotteryDataSet" targetNamespace="http://tempuri.org/LotteryDataSet.xsd" xmlns:mstns="http://tempuri.org/LotteryDataSet.xsd" xmlns="http://tempuri.org/LotteryDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="LotteryDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="LotteryDataSet" msprop:Generator_DataSetName="LotteryDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Lottery" msprop:Generator_RowEvHandlerName="LotteryRowChangeEventHandler" msprop:Generator_RowDeletedName="LotteryRowDeleted" msprop:Generator_RowDeletingName="LotteryRowDeleting" msprop:Generator_RowEvArgName="LotteryRowChangeEvent" msprop:Generator_TablePropName="Lottery" msprop:Generator_RowChangedName="LotteryRowChanged" msprop:Generator_RowChangingName="LotteryRowChanging" msprop:Generator_TableClassName="LotteryDataTable" msprop:Generator_RowClassName="LotteryRow" msprop:Generator_TableVarName="tableLottery" msprop:Generator_UserTableName="Lottery">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Pick3Id" msprop:Generator_ColumnPropNameInRow="Pick3Id" msprop:Generator_ColumnPropNameInTable="Pick3IdColumn" msprop:Generator_ColumnVarNameInTable="columnPick3Id" msprop:Generator_UserColumnName="Pick3Id" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Texts" msprop:Generator_ColumnPropNameInRow="Texts" msprop:Generator_ColumnPropNameInTable="TextsColumn" msprop:Generator_ColumnVarNameInTable="columnTexts" msprop:Generator_UserColumnName="Texts" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="3" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

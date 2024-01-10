@@ -1,0 +1,10 @@
+A:\MISIT\ADONET\ADONET\Lab0109Review\bin\Debug\Lab0109Review.exe.config
+A:\MISIT\ADONET\ADONET\Lab0109Review\bin\Debug\Lab0109Review.exe
+A:\MISIT\ADONET\ADONET\Lab0109Review\bin\Debug\Lab0109Review.pdb
+A:\MISIT\ADONET\ADONET\Lab0109Review\obj\Debug\Lab0109Review.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\ADONET\Lab0109Review\obj\Debug\Lab0109Review.Form1.resources
+A:\MISIT\ADONET\ADONET\Lab0109Review\obj\Debug\Lab0109Review.Properties.Resources.resources
+A:\MISIT\ADONET\ADONET\Lab0109Review\obj\Debug\Lab0109Review.csproj.GenerateResource.cache
+A:\MISIT\ADONET\ADONET\Lab0109Review\obj\Debug\Lab0109Review.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\ADONET\Lab0109Review\obj\Debug\Lab0109Review.exe
+A:\MISIT\ADONET\ADONET\Lab0109Review\obj\Debug\Lab0109Review.pdb
