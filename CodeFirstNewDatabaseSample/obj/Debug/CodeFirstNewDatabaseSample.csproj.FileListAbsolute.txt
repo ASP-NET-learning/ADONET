@@ -1,0 +1,15 @@
+A:\MISIT\ADONET\MISITADO\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.exe.config
+A:\MISIT\ADONET\MISITADO\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.exe
+A:\MISIT\ADONET\MISITADO\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.pdb
+A:\MISIT\ADONET\MISITADO\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.dll
+A:\MISIT\ADONET\MISITADO\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.SqlServer.dll
+A:\MISIT\ADONET\MISITADO\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.xml
+A:\MISIT\ADONET\MISITADO\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.SqlServer.xml
+A:\MISIT\ADONET\MISITADO\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\MISITADO\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\MISITADO\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.csproj.CopyComplete
+A:\MISIT\ADONET\MISITADO\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.exe
+A:\MISIT\ADONET\MISITADO\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.pdb
+A:\MISIT\ADONET\MISITADO\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.Migrations.InitialCreate.resources
+A:\MISIT\ADONET\MISITADO\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.csproj.GenerateResource.cache
+A:\MISIT\ADONET\MISITADO\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.Migrations.AddUrl.resources

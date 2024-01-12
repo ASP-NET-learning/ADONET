@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab0111_command", "Lab0111_command.csproj", "{93FB8C18-AF2A-4146-AF38-F0C45FCD4048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab0111_MutileUser", "..\Lab0111_MutileUser\Lab0111_MutileUser.csproj", "{4C2B29CC-347E-4E99-81B0-48F1D970C3BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93FB8C18-AF2A-4146-AF38-F0C45FCD4048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FB8C18-AF2A-4146-AF38-F0C45FCD4048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FB8C18-AF2A-4146-AF38-F0C45FCD4048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FB8C18-AF2A-4146-AF38-F0C45FCD4048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C2B29CC-347E-4E99-81B0-48F1D970C3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2B29CC-347E-4E99-81B0-48F1D970C3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2B29CC-347E-4E99-81B0-48F1D970C3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2B29CC-347E-4E99-81B0-48F1D970C3BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C51F4FE-98D9-4480-AF59-4A943CD110B4}
+	EndGlobalSection
+EndGlobal

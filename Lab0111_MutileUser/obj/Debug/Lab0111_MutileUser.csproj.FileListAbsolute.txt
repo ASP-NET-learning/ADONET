@@ -1,0 +1,10 @@
+A:\MISIT\ADONET\MISITADO\Lab0111_MutileUser\bin\Debug\Lab0111_MutileUser.exe.config
+A:\MISIT\ADONET\MISITADO\Lab0111_MutileUser\bin\Debug\Lab0111_MutileUser.exe
+A:\MISIT\ADONET\MISITADO\Lab0111_MutileUser\bin\Debug\Lab0111_MutileUser.pdb
+A:\MISIT\ADONET\MISITADO\Lab0111_MutileUser\obj\Debug\Lab0111_MutileUser.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\MISITADO\Lab0111_MutileUser\obj\Debug\Lab0111_MutileUser.Form1.resources
+A:\MISIT\ADONET\MISITADO\Lab0111_MutileUser\obj\Debug\Lab0111_MutileUser.Properties.Resources.resources
+A:\MISIT\ADONET\MISITADO\Lab0111_MutileUser\obj\Debug\Lab0111_MutileUser.csproj.GenerateResource.cache
+A:\MISIT\ADONET\MISITADO\Lab0111_MutileUser\obj\Debug\Lab0111_MutileUser.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\MISITADO\Lab0111_MutileUser\obj\Debug\Lab0111_MutileUser.exe
+A:\MISIT\ADONET\MISITADO\Lab0111_MutileUser\obj\Debug\Lab0111_MutileUser.pdb

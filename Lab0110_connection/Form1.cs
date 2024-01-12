@@ -26,20 +26,15 @@ namespace Lab0110_connection
             try
             {
                 conn.Open();
+                button1.Text = "Connect Success!";
             }
-            catch {
+            catch 
+            {
                 this.Text = "fail";
                 return;
             }
             
-            //if (conn.State == ConnectionState.Open.Close)
-            //{
-            //    button1.Text = "連線成功";
-            //}
-            //else
-            //{
-            //    button1.Text = "連線失敗";
-            //}
+            
                 
             
             conn.Close();
