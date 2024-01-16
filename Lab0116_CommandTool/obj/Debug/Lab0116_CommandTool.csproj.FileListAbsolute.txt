@@ -1,0 +1,10 @@
+A:\MISIT\ADONET\MISITADO\Lab0116_CommandTool\bin\Debug\Lab0116_CommandTool.exe.config
+A:\MISIT\ADONET\MISITADO\Lab0116_CommandTool\bin\Debug\Lab0116_CommandTool.exe
+A:\MISIT\ADONET\MISITADO\Lab0116_CommandTool\bin\Debug\Lab0116_CommandTool.pdb
+A:\MISIT\ADONET\MISITADO\Lab0116_CommandTool\obj\Debug\Lab0116_CommandTool.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\MISITADO\Lab0116_CommandTool\obj\Debug\Lab0116_CommandTool.Form1.resources
+A:\MISIT\ADONET\MISITADO\Lab0116_CommandTool\obj\Debug\Lab0116_CommandTool.Properties.Resources.resources
+A:\MISIT\ADONET\MISITADO\Lab0116_CommandTool\obj\Debug\Lab0116_CommandTool.csproj.GenerateResource.cache
+A:\MISIT\ADONET\MISITADO\Lab0116_CommandTool\obj\Debug\Lab0116_CommandTool.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\MISITADO\Lab0116_CommandTool\obj\Debug\Lab0116_CommandTool.exe
+A:\MISIT\ADONET\MISITADO\Lab0116_CommandTool\obj\Debug\Lab0116_CommandTool.pdb

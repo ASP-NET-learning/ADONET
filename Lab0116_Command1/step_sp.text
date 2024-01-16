@@ -1,0 +1,23 @@
+﻿CREATE PROCEDURE usp_ListProducts 
+	@min int = null, --宣告參數
+	@max int = 9999
+as
+	if(@min is null) begin
+		set @min = 0
+	end
+
+	if(@max is null) begin
+		set @max = 0
+		-- set @max = (select max(unitPrice) from products)
+	end
+
+	SELECT * 
+	FROM Products
+	WHERE UnitPrice >= @min and UnitPrice <= @max
+	ORDER BY UnitPrice DESC;
+GO
+ 
+execute usp_ListProducts 50  --呼叫方法
+execute usp_ListProducts 10,20  --call by order
+execute usp_ListProducts @min=100  --call by name
+execute usp_ListProducts null, 10

@@ -1,0 +1,10 @@
+A:\MISIT\ADONET\2024-01-16\2024-01-16\Lab0116_NextNumber\Lab0116_NextNumber\bin\Debug\Lab0116_NextNumber.exe.config
+A:\MISIT\ADONET\2024-01-16\2024-01-16\Lab0116_NextNumber\Lab0116_NextNumber\bin\Debug\Lab0116_NextNumber.exe
+A:\MISIT\ADONET\2024-01-16\2024-01-16\Lab0116_NextNumber\Lab0116_NextNumber\bin\Debug\Lab0116_NextNumber.pdb
+A:\MISIT\ADONET\2024-01-16\2024-01-16\Lab0116_NextNumber\Lab0116_NextNumber\obj\Debug\Lab0116_NextNumber.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\2024-01-16\2024-01-16\Lab0116_NextNumber\Lab0116_NextNumber\obj\Debug\Lab0116_NextNumber.Form1.resources
+A:\MISIT\ADONET\2024-01-16\2024-01-16\Lab0116_NextNumber\Lab0116_NextNumber\obj\Debug\Lab0116_NextNumber.Properties.Resources.resources
+A:\MISIT\ADONET\2024-01-16\2024-01-16\Lab0116_NextNumber\Lab0116_NextNumber\obj\Debug\Lab0116_NextNumber.csproj.GenerateResource.cache
+A:\MISIT\ADONET\2024-01-16\2024-01-16\Lab0116_NextNumber\Lab0116_NextNumber\obj\Debug\Lab0116_NextNumber.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\2024-01-16\2024-01-16\Lab0116_NextNumber\Lab0116_NextNumber\obj\Debug\Lab0116_NextNumber.exe
+A:\MISIT\ADONET\2024-01-16\2024-01-16\Lab0116_NextNumber\Lab0116_NextNumber\obj\Debug\Lab0116_NextNumber.pdb

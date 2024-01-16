@@ -1,0 +1,33 @@
+﻿use northwind
+go
+
+create table Sequence0116 (
+  id varchar(10) not null primary key,
+  lastNumber int not null
+)
+go
+
+
+insert into Sequence0116 values ('0114', 38);
+insert into Sequence0116 values ('0115', 3879);
+insert into Sequence0116 values ('0116', 0);
+go
+
+drop procedure NextNumber
+go
+
+create procedure NextNumber 
+  @id varchar(10)
+as
+begin transaction
+	declare @lastNumber int = 0;
+	select @lastNumber = lastNumber 
+	  from Sequence0116 with (xlock) where id=@id
+	set @lastNumber = @lastNumber + 1
+	update Sequence0116 set lastNumber = @lastNumber where id=@id
+	select @lastNumber as lastNumber
+commit
+go
+
+exec NextNumber '0115'
+exec NextNumber '0116'
