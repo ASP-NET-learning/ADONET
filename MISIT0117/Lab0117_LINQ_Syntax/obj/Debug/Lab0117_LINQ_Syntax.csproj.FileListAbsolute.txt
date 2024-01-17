@@ -1,0 +1,10 @@
+A:\MISIT\ADONET\MISITADO\Lab0117_LINQ_Syntax\bin\Debug\Lab0117_LINQ_Syntax.exe.config
+A:\MISIT\ADONET\MISITADO\Lab0117_LINQ_Syntax\bin\Debug\Lab0117_LINQ_Syntax.exe
+A:\MISIT\ADONET\MISITADO\Lab0117_LINQ_Syntax\bin\Debug\Lab0117_LINQ_Syntax.pdb
+A:\MISIT\ADONET\MISITADO\Lab0117_LINQ_Syntax\obj\Debug\Lab0117_LINQ_Syntax.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\MISITADO\Lab0117_LINQ_Syntax\obj\Debug\Lab0117_LINQ_Syntax.Form1.resources
+A:\MISIT\ADONET\MISITADO\Lab0117_LINQ_Syntax\obj\Debug\Lab0117_LINQ_Syntax.Properties.Resources.resources
+A:\MISIT\ADONET\MISITADO\Lab0117_LINQ_Syntax\obj\Debug\Lab0117_LINQ_Syntax.csproj.GenerateResource.cache
+A:\MISIT\ADONET\MISITADO\Lab0117_LINQ_Syntax\obj\Debug\Lab0117_LINQ_Syntax.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\MISITADO\Lab0117_LINQ_Syntax\obj\Debug\Lab0117_LINQ_Syntax.exe
+A:\MISIT\ADONET\MISITADO\Lab0117_LINQ_Syntax\obj\Debug\Lab0117_LINQ_Syntax.pdb

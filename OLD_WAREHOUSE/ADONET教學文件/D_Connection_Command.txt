@@ -1,0 +1,137 @@
+# 不使用工具，直接寫程式使用 Connection 與 Command 物件
+
+- 瞭解 ConnectionString 以及如何建立 Connection 物件
+
+- 建立 Command 物件
+
+- 設定 Command 物件的重要屬性:
+  Connection, CommandText
+
+- 執行 SQL 指令:
+  ExecuteNonQuery(), ExecuteReader(), ExecuteScalar()
+
+- 如何使用 DataReader
+
+
+<Note>可能用到的程式:
+
+
+    public partial class Form1 : Form {
+        public Form1() {
+            InitializeComponent();
+        }
+
+        // using System.Data.SqlClient;
+        private void button1_Click(object sender, EventArgs e) {
+            // string s = "Data Source=.\\SQLExpress;Initial Catalog=Northwind;Integrated Security=True";
+            // string s = "Server=.\\SQLExpress;Initial Catalog=Northwind;Integrated Security=True";
+            // string s = "Data Source=.\\SQLExpress;Database=Northwind;Integrated Security=True";
+            string s = "Server=.\\SQLExpress;Database=Northwind;Integrated Security=False;user id=sa;password=sa;";
+            SqlConnection cn =
+                new SqlConnection(s);
+            
+            cn.Open();
+            // if (cn.State != ConnectionState.Open)
+            try {
+                cn.Open();
+            }
+            catch {
+
+            }
+                
+            button1.Text = "OK";
+            cn.Close();
+        }
+
+        private void button2_Click(object sender, EventArgs e) {
+            string s = "Server=.\\SQLExpress;Database=Northwind;Integrated Security=False;user id=sa;password=sa;";
+            SqlConnection cn =
+                new SqlConnection(s);
+            cn.Open();
+
+            SqlCommand cmd = new SqlCommand(
+                "update Products set UnitsInStock = 101 where ProductID = 1", 
+                cn);
+            int result = cmd.ExecuteNonQuery();
+
+            button2.Text = result.ToString();
+
+        }
+
+        private void button3_Click(object sender, EventArgs e) {
+            string s = "Server=.\\SQLExpress;Database=Northwind;Integrated Security=False;user id=sa;password=sa;";
+            SqlConnection cn =
+                new SqlConnection(s);
+            cn.Open();
+
+            SqlCommand cmd = new SqlCommand(
+                "select * from Products",
+                cn);
+            SqlDataReader dr = cmd.ExecuteReader();
+            while (dr.Read()) {
+                listBox1.Items.Add(dr["ProductName"].ToString());
+            }
+            
+        }
+
+        private void button4_Click(object sender, EventArgs e) {
+            listBox1.Items.Clear();
+
+            string s = "Server=.\\SQLExpress;Database=Northwind;Integrated Security=False;user id=sa;password=sa;";
+            SqlConnection cn =
+                new SqlConnection(s);
+            cn.Open();
+
+            // 100; update Products set UnitPrice = 1 where ProductID = 1  --
+            SqlCommand cmd = new SqlCommand(
+                "select * from Products where UnitPrice >= " 
+                  + textBox1.Text,
+                cn);
+            SqlDataReader dr = cmd.ExecuteReader();
+            while (dr.Read()) {
+                string line = string.Format("Name: {0}, Price={1}",
+                    dr["ProductName"], dr["UnitPrice"]);
+                listBox1.Items.Add(line);
+            }
+        }
+
+        private void button5_Click(object sender, EventArgs e) {
+            listBox1.Items.Clear();
+
+            string s = "Server=.\\SQLExpress;Database=Northwind;Integrated Security=False;user id=sa;password=sa;";
+            SqlConnection cn =
+                new SqlConnection(s);
+            cn.Open();
+
+            // 100; update Products set UnitPrice = 1 where ProductID = 1  --
+            SqlCommand cmd = new SqlCommand(
+                "select * from Products where UnitPrice >= @minPrice",
+                cn);
+
+            SqlParameter p = cmd.Parameters.Add("@minPrice", SqlDbType.Decimal);
+            p.Value = textBox1.Text;
+            //SqlParameter p = new SqlParameter("@minPrice", SqlDbType.Decimal);
+            //cmd.Parameters.Add(p);
+            //cmd.Parameters["@minPrice"].Value = textBox1.Text;
+
+            SqlDataReader dr = cmd.ExecuteReader();
+            while (dr.Read()) {
+                string line = string.Format("Name: {0}, Price={1}",
+                    dr["ProductName"], dr["UnitPrice"]);
+                listBox1.Items.Add(line);
+            }
+        }
+
+        private void button6_Click(object sender, EventArgs e) {
+            sqlConnection1.Open();
+            sqlCommand1.Parameters["@minPrice"].Value
+                = textBox1.Text;
+            SqlDataReader dr = sqlCommand1.ExecuteReader();
+            while (dr.Read()) {
+                string line = string.Format("Name: {0}, Price={1}",
+                    dr["ProductName"], dr["UnitPrice"]);
+                listBox1.Items.Add(line);
+            }
+        }
+    }
+

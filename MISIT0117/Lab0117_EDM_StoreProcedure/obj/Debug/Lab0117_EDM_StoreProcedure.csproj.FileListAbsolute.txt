@@ -1,0 +1,16 @@
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_StoreProcedure\bin\Debug\Lab0117_EDM_StoreProcedure.exe.config
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_StoreProcedure\bin\Debug\Lab0117_EDM_StoreProcedure.exe
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_StoreProcedure\bin\Debug\Lab0117_EDM_StoreProcedure.pdb
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_StoreProcedure\bin\Debug\EntityFramework.dll
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_StoreProcedure\bin\Debug\EntityFramework.SqlServer.dll
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_StoreProcedure\bin\Debug\EntityFramework.xml
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_StoreProcedure\bin\Debug\EntityFramework.SqlServer.xml
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_StoreProcedure\bin\Debug\zh-Hant\EntityFramework.resources.dll
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_StoreProcedure\obj\Debug\Lab0117_EDM_StoreProcedure.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_StoreProcedure\obj\Debug\Lab0117_EDM_StoreProcedure.Form1.resources
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_StoreProcedure\obj\Debug\Lab0117_EDM_StoreProcedure.Properties.Resources.resources
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_StoreProcedure\obj\Debug\Lab0117_EDM_StoreProcedure.csproj.GenerateResource.cache
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_StoreProcedure\obj\Debug\Lab0117_EDM_StoreProcedure.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_StoreProcedure\obj\Debug\Lab0117_EDM_StoreProcedure.csproj.CopyComplete
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_StoreProcedure\obj\Debug\Lab0117_EDM_StoreProcedure.exe
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_StoreProcedure\obj\Debug\Lab0117_EDM_StoreProcedure.pdb

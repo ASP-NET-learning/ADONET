@@ -1,0 +1,30 @@
+# 如何將多個指令組成一個 All or Nothing 的 Transaction
+
+- 瞭解什麼是 Transaction (交易/異動)
+
+- 如何建立 SqlTransaction 物件
+
+- 如何使用 SqlTransaction 物件的 Commit() 與 Rollback() 方法
+
+<Note>可能用到的程式:
+
+SqlConnection cn = new SqlConnection();
+cn.ConnectionString = "Data Source=.\\SQLExpress;Initial Catalog=Northwind;Integrated Security=True";
+cn.Open();
+
+SqlTransaction t = cn.BeginTransaction();
+SqlCommand cmd = new SqlCommand(
+    "update Products set UnitsInStock = 3 where ProductID = 1",
+    cn,
+    t);
+
+try {
+    cmd.ExecuteNonQuery();
+    MessageBox.Show("Pause...");
+    // // set transaction isolation level read uncommitted
+    t.Commit();
+}
+catch {
+    t.Rollback();
+}
+

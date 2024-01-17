@@ -1,0 +1,10 @@
+A:\MISIT\ADONET\MISITADO\Lab0117_Syntax_2\bin\Debug\Lab0117_Syntax_2.exe.config
+A:\MISIT\ADONET\MISITADO\Lab0117_Syntax_2\bin\Debug\Lab0117_Syntax_2.exe
+A:\MISIT\ADONET\MISITADO\Lab0117_Syntax_2\bin\Debug\Lab0117_Syntax_2.pdb
+A:\MISIT\ADONET\MISITADO\Lab0117_Syntax_2\obj\Debug\Lab0117_Syntax_2.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\MISITADO\Lab0117_Syntax_2\obj\Debug\Lab0117_Syntax_2.Form1.resources
+A:\MISIT\ADONET\MISITADO\Lab0117_Syntax_2\obj\Debug\Lab0117_Syntax_2.Properties.Resources.resources
+A:\MISIT\ADONET\MISITADO\Lab0117_Syntax_2\obj\Debug\Lab0117_Syntax_2.csproj.GenerateResource.cache
+A:\MISIT\ADONET\MISITADO\Lab0117_Syntax_2\obj\Debug\Lab0117_Syntax_2.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\MISITADO\Lab0117_Syntax_2\obj\Debug\Lab0117_Syntax_2.exe
+A:\MISIT\ADONET\MISITADO\Lab0117_Syntax_2\obj\Debug\Lab0117_Syntax_2.pdb

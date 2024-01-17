@@ -1,0 +1,57 @@
+# 使用 DataSet 存取 XML 資料檔
+
+- 請跟著講師的操作示範與解說，了解如何操作 DataSet 設計工具
+
+- 學習如何使用 DataSet 的 WriteXML() 與 ReadXML() 方法 
+
+- 復習如何增減 DataSet 內的資料
+
+
+<Note>可能用到的程式:
+
+    public partial class Form1 : Form {
+
+        private string DataFileName = @"c:\temp\lottery.xml";
+
+        public Form1() {
+            InitializeComponent();
+
+            DataFileName =
+                System.IO.Path.GetDirectoryName(
+                    Application.ExecutablePath) + "\\lottery.xml";
+
+            if (System.IO.File.Exists(DataFileName)) {
+                lotteryDataSet1.ReadXml(DataFileName);
+            }
+            
+        }
+
+        private void AddButton_Click(object sender, EventArgs e) {
+            LotteryDataSet.Pick3Row dr =
+                lotteryDataSet1.Pick3.NewPick3Row();
+            dr.Text = NumberTextBox.Text;
+            lotteryDataSet1.Pick3.Rows.Add(dr);
+
+            WriteData();
+        }
+
+        private void WriteData() {
+            lotteryDataSet1.WriteXml(DataFileName);
+        }
+
+        private void button1_Click(object sender, EventArgs e) {
+            string s = Application.ExecutablePath;
+            s = System.IO.Path.GetDirectoryName(s);
+            s = s + "\\lottery.xml";
+            this.Text = s;
+        }
+
+        private void DeleteButton_Click(object sender, EventArgs e) {
+            int position = bindingSource1.Position;
+            lotteryDataSet1.Pick3.Rows.RemoveAt(position);
+            WriteData();
+        }
+    }
+
+
+

@@ -1,0 +1,16 @@
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_MulitUser\bin\Debug\Lab0117_EDM_MulitUser.exe.config
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_MulitUser\bin\Debug\Lab0117_EDM_MulitUser.exe
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_MulitUser\bin\Debug\Lab0117_EDM_MulitUser.pdb
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_MulitUser\bin\Debug\EntityFramework.dll
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_MulitUser\bin\Debug\EntityFramework.SqlServer.dll
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_MulitUser\bin\Debug\EntityFramework.xml
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_MulitUser\bin\Debug\EntityFramework.SqlServer.xml
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_MulitUser\bin\Debug\zh-Hant\EntityFramework.resources.dll
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_MulitUser\obj\Debug\Lab0117_EDM_MulitUser.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_MulitUser\obj\Debug\Lab0117_EDM_MulitUser.Form1.resources
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_MulitUser\obj\Debug\Lab0117_EDM_MulitUser.Properties.Resources.resources
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_MulitUser\obj\Debug\Lab0117_EDM_MulitUser.csproj.GenerateResource.cache
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_MulitUser\obj\Debug\Lab0117_EDM_MulitUser.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_MulitUser\obj\Debug\Lab0117_EDM_MulitUser.csproj.CopyComplete
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_MulitUser\obj\Debug\Lab0117_EDM_MulitUser.exe
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_MulitUser\obj\Debug\Lab0117_EDM_MulitUser.pdb

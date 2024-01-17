@@ -1,0 +1,80 @@
+1.  請先完成 A_Coding_with_Tools 練習
+
+
+2.  回想一下 A_Coding_with_Tools 使用過的元件
+    重新組織一遍
+
+
+3.  請預想一下，資料庫的內容該如何增查修刪呢? (Create / Read / Update / Delete)
+
+    (Optional)
+    資料庫通常不只一個人在使用，
+    若是兩個人同時針對同一資料表改同一個欄位的資料，
+    會發生什麼事 / 該怎麼辦呢?
+
+
+4.  請跟著講師的操作示範與解說，了解 DataSet 的結構與 SqlDataAdapter 的功能
+
+
+<Note>可能用到的程式:
+
+   public partial class Form1 : Form {
+        public Form1() {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e) {
+            sqlDataAdapter1.Fill(northwindDataSet1.Customers);
+        }
+
+        private void button2_Click(object sender, EventArgs e) {
+            sqlDataAdapter1.Update(northwindDataSet1);
+        }
+
+        private void button3_Click(object sender, EventArgs e) {
+            NorthwindDataSet.CustomersRow dr =
+                northwindDataSet1.Customers.NewCustomersRow();
+            dr.CustomerID = "00002";
+            dr.CompanyName = "00002 name";
+            MessageBox.Show(dr.RowState.ToString());
+            northwindDataSet1.Customers.Rows.Add(dr);
+            MessageBox.Show(dr.RowState.ToString());
+
+        }
+
+        private void button4_Click(object sender, EventArgs e) {
+            button4.Text =
+                northwindDataSet1.Customers[0].RowState.ToString();
+        }
+
+        private void button5_Click(object sender, EventArgs e) {
+            DataRow dr = northwindDataSet1.Customers[0];
+            label1.Text = string.Format("old: {0}, new: {1}",
+                dr["CompanyName", DataRowVersion.Original],
+                dr["CompanyName"]);
+        }
+
+        private void button6_Click(object sender, EventArgs e) {
+            // northwindDataSet1.RejectChanges();
+            // northwindDataSet1.Customers.RejectChanges();
+            northwindDataSet1.Customers[0].RejectChanges();
+        }
+
+        private void button7_Click(object sender, EventArgs e) {
+            northwindDataSet1.Customers[0].AcceptChanges();
+        }
+        //update Customers set CompanyName = '100' where CustomerID = '00001'
+        // select* from Customers
+
+        private void button8_Click(object sender, EventArgs e) {
+            DataSet ds = northwindDataSet1.GetChanges();
+            dataGridView2.DataSource = ds.Tables["Customers"];
+        }
+
+        private void button9_Click(object sender, EventArgs e) {
+            // northwindDataSet1.Customers.Rows.RemoveAt(0);
+            northwindDataSet1.Customers.Rows[0].Delete();
+        }
+   }
+
+

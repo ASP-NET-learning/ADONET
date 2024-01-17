@@ -1,0 +1,4 @@
+﻿Entity Framework - Code First
+
+https://learn.microsoft.com/zh-tw/ef/ef6/modeling/code-first/workflows/new-database
+

@@ -1,0 +1,4 @@
+﻿Entity Framework - Database First
+
+https://learn.microsoft.com/zh-tw/ef/ef6/modeling/designer/workflows/database-first
+

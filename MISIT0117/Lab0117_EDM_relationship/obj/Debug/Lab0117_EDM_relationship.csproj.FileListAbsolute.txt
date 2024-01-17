@@ -1,0 +1,16 @@
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_relationship\bin\Debug\Lab0117_EDM_relationship.exe.config
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_relationship\bin\Debug\Lab0117_EDM_relationship.exe
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_relationship\bin\Debug\Lab0117_EDM_relationship.pdb
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_relationship\bin\Debug\EntityFramework.dll
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_relationship\bin\Debug\EntityFramework.SqlServer.dll
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_relationship\bin\Debug\EntityFramework.xml
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_relationship\bin\Debug\EntityFramework.SqlServer.xml
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_relationship\bin\Debug\zh-Hant\EntityFramework.resources.dll
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_relationship\obj\Debug\Lab0117_EDM_relationship.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_relationship\obj\Debug\Lab0117_EDM_relationship.Form1.resources
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_relationship\obj\Debug\Lab0117_EDM_relationship.Properties.Resources.resources
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_relationship\obj\Debug\Lab0117_EDM_relationship.csproj.GenerateResource.cache
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_relationship\obj\Debug\Lab0117_EDM_relationship.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_relationship\obj\Debug\Lab0117_EDM_relationship.csproj.CopyComplete
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_relationship\obj\Debug\Lab0117_EDM_relationship.exe
+A:\MISIT\ADONET\MISITADO\Lab0117_EDM_relationship\obj\Debug\Lab0117_EDM_relationship.pdb
