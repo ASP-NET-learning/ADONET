@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab0118_LINQ_ADONET", "Lab0118_LINQ_ADONET.csproj", "{75E3A6F3-6499-4622-90A9-A98C58F2F549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75E3A6F3-6499-4622-90A9-A98C58F2F549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E3A6F3-6499-4622-90A9-A98C58F2F549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E3A6F3-6499-4622-90A9-A98C58F2F549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E3A6F3-6499-4622-90A9-A98C58F2F549}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F4F1325-ADEA-4665-B335-557EA8B1EF17}
+	EndGlobalSection
+EndGlobal
