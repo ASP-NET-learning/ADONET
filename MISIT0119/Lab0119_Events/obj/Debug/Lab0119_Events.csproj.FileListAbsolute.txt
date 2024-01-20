@@ -1,0 +1,10 @@
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_Events\bin\Debug\Lab0119_Events.exe.config
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_Events\bin\Debug\Lab0119_Events.exe
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_Events\bin\Debug\Lab0119_Events.pdb
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_Events\obj\Debug\Lab0119_Events.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_Events\obj\Debug\Lab0119_Events.Form1.resources
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_Events\obj\Debug\Lab0119_Events.Properties.Resources.resources
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_Events\obj\Debug\Lab0119_Events.csproj.GenerateResource.cache
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_Events\obj\Debug\Lab0119_Events.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_Events\obj\Debug\Lab0119_Events.exe
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_Events\obj\Debug\Lab0119_Events.pdb

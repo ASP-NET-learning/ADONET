@@ -1,0 +1,10 @@
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_FuntionToFuntion\bin\Debug\Lab0119_FuntionToFuntion.exe.config
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_FuntionToFuntion\bin\Debug\Lab0119_FuntionToFuntion.exe
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_FuntionToFuntion\bin\Debug\Lab0119_FuntionToFuntion.pdb
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_FuntionToFuntion\obj\Debug\Lab0119_FuntionToFuntion.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_FuntionToFuntion\obj\Debug\Lab0119_FuntionToFuntion.Form1.resources
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_FuntionToFuntion\obj\Debug\Lab0119_FuntionToFuntion.Properties.Resources.resources
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_FuntionToFuntion\obj\Debug\Lab0119_FuntionToFuntion.csproj.GenerateResource.cache
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_FuntionToFuntion\obj\Debug\Lab0119_FuntionToFuntion.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_FuntionToFuntion\obj\Debug\Lab0119_FuntionToFuntion.exe
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_FuntionToFuntion\obj\Debug\Lab0119_FuntionToFuntion.pdb

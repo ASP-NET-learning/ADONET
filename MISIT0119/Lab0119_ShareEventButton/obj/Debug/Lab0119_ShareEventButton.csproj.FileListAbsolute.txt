@@ -1,0 +1,10 @@
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_ShareEventButton\bin\Debug\Lab0119_ShareEventButton.exe.config
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_ShareEventButton\bin\Debug\Lab0119_ShareEventButton.exe
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_ShareEventButton\bin\Debug\Lab0119_ShareEventButton.pdb
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_ShareEventButton\obj\Debug\Lab0119_ShareEventButton.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_ShareEventButton\obj\Debug\Lab0119_ShareEventButton.Form1.resources
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_ShareEventButton\obj\Debug\Lab0119_ShareEventButton.Properties.Resources.resources
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_ShareEventButton\obj\Debug\Lab0119_ShareEventButton.csproj.GenerateResource.cache
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_ShareEventButton\obj\Debug\Lab0119_ShareEventButton.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_ShareEventButton\obj\Debug\Lab0119_ShareEventButton.exe
+A:\MISIT\ADONET\MISITADO\MISIT0119\Lab0119_ShareEventButton\obj\Debug\Lab0119_ShareEventButton.pdb
