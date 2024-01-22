@@ -1,0 +1,16 @@
+A:\MISIT\ADONET\MISITADO\Lab0122_GROUP\bin\Debug\Lab0122_GROUP.exe.config
+A:\MISIT\ADONET\MISITADO\Lab0122_GROUP\bin\Debug\Lab0122_GROUP.exe
+A:\MISIT\ADONET\MISITADO\Lab0122_GROUP\bin\Debug\Lab0122_GROUP.pdb
+A:\MISIT\ADONET\MISITADO\Lab0122_GROUP\bin\Debug\EntityFramework.dll
+A:\MISIT\ADONET\MISITADO\Lab0122_GROUP\bin\Debug\EntityFramework.SqlServer.dll
+A:\MISIT\ADONET\MISITADO\Lab0122_GROUP\bin\Debug\EntityFramework.xml
+A:\MISIT\ADONET\MISITADO\Lab0122_GROUP\bin\Debug\EntityFramework.SqlServer.xml
+A:\MISIT\ADONET\MISITADO\Lab0122_GROUP\bin\Debug\zh-Hant\EntityFramework.resources.dll
+A:\MISIT\ADONET\MISITADO\Lab0122_GROUP\obj\Debug\Lab0122_GROUP.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\MISITADO\Lab0122_GROUP\obj\Debug\Lab0122_GROUP.Form1.resources
+A:\MISIT\ADONET\MISITADO\Lab0122_GROUP\obj\Debug\Lab0122_GROUP.Properties.Resources.resources
+A:\MISIT\ADONET\MISITADO\Lab0122_GROUP\obj\Debug\Lab0122_GROUP.csproj.GenerateResource.cache
+A:\MISIT\ADONET\MISITADO\Lab0122_GROUP\obj\Debug\Lab0122_GROUP.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\MISITADO\Lab0122_GROUP\obj\Debug\Lab0122_GROUP.csproj.CopyComplete
+A:\MISIT\ADONET\MISITADO\Lab0122_GROUP\obj\Debug\Lab0122_GROUP.exe
+A:\MISIT\ADONET\MISITADO\Lab0122_GROUP\obj\Debug\Lab0122_GROUP.pdb
