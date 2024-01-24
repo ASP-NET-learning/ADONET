@@ -1,0 +1,10 @@
+A:\MISIT\ADONET\MISITADO\Lab0123_Class\bin\Debug\Lab0123_Class.exe.config
+A:\MISIT\ADONET\MISITADO\Lab0123_Class\bin\Debug\Lab0123_Class.exe
+A:\MISIT\ADONET\MISITADO\Lab0123_Class\bin\Debug\Lab0123_Class.pdb
+A:\MISIT\ADONET\MISITADO\Lab0123_Class\obj\Debug\Lab0123_Class.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\MISITADO\Lab0123_Class\obj\Debug\Lab0123_Class.Properties.Resources.resources
+A:\MISIT\ADONET\MISITADO\Lab0123_Class\obj\Debug\Lab0123_Class.csproj.GenerateResource.cache
+A:\MISIT\ADONET\MISITADO\Lab0123_Class\obj\Debug\Lab0123_Class.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\MISITADO\Lab0123_Class\obj\Debug\Lab0123_Class.exe
+A:\MISIT\ADONET\MISITADO\Lab0123_Class\obj\Debug\Lab0123_Class.pdb
+A:\MISIT\ADONET\MISITADO\Lab0123_Class\obj\Debug\Lab0123_Class.Form1.resources

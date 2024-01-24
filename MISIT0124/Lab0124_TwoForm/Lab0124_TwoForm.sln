@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab0124_TwoForm", "Lab0124_TwoForm.csproj", "{DBB3307B-C21C-4673-861A-95AA2A6E095E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBB3307B-C21C-4673-861A-95AA2A6E095E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB3307B-C21C-4673-861A-95AA2A6E095E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB3307B-C21C-4673-861A-95AA2A6E095E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB3307B-C21C-4673-861A-95AA2A6E095E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FAD4116-8281-4A2D-8E42-5C265066FBCA}
+	EndGlobalSection
+EndGlobal

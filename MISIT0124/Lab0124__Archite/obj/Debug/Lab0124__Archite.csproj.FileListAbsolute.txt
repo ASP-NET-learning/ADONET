@@ -1,0 +1,10 @@
+A:\MISIT\ADONET\MISITADO\Lab0124__Archite\bin\Debug\Lab0124__Archite.exe.config
+A:\MISIT\ADONET\MISITADO\Lab0124__Archite\bin\Debug\Lab0124__Archite.exe
+A:\MISIT\ADONET\MISITADO\Lab0124__Archite\bin\Debug\Lab0124__Archite.pdb
+A:\MISIT\ADONET\MISITADO\Lab0124__Archite\obj\Debug\Lab0124__Archite.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\MISITADO\Lab0124__Archite\obj\Debug\Lab0124__Archite.Form1.resources
+A:\MISIT\ADONET\MISITADO\Lab0124__Archite\obj\Debug\Lab0124__Archite.Properties.Resources.resources
+A:\MISIT\ADONET\MISITADO\Lab0124__Archite\obj\Debug\Lab0124__Archite.csproj.GenerateResource.cache
+A:\MISIT\ADONET\MISITADO\Lab0124__Archite\obj\Debug\Lab0124__Archite.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\MISITADO\Lab0124__Archite\obj\Debug\Lab0124__Archite.exe
+A:\MISIT\ADONET\MISITADO\Lab0124__Archite\obj\Debug\Lab0124__Archite.pdb
