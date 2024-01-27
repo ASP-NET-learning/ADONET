@@ -1,0 +1,10 @@
+A:\MISIT\ADONET\MISITADO\Lab0126_InterFace\Lab0126_InterFace\obj\Debug\Lab0126_InterFace.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\MISITADO\Lab0126_InterFace\Lab0126_InterFace\obj\Debug\Lab0126_InterFace.Form1.resources
+A:\MISIT\ADONET\MISITADO\Lab0126_InterFace\Lab0126_InterFace\obj\Debug\Lab0126_InterFace.Properties.Resources.resources
+A:\MISIT\ADONET\MISITADO\Lab0126_InterFace\Lab0126_InterFace\obj\Debug\Lab0126_InterFace.csproj.GenerateResource.cache
+A:\MISIT\ADONET\MISITADO\Lab0126_InterFace\Lab0126_InterFace\obj\Debug\Lab0126_InterFace.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\MISITADO\Lab0126_InterFace\Lab0126_InterFace\bin\Debug\Lab0126_InterFace.exe.config
+A:\MISIT\ADONET\MISITADO\Lab0126_InterFace\Lab0126_InterFace\bin\Debug\Lab0126_InterFace.exe
+A:\MISIT\ADONET\MISITADO\Lab0126_InterFace\Lab0126_InterFace\bin\Debug\Lab0126_InterFace.pdb
+A:\MISIT\ADONET\MISITADO\Lab0126_InterFace\Lab0126_InterFace\obj\Debug\Lab0126_InterFace.exe
+A:\MISIT\ADONET\MISITADO\Lab0126_InterFace\Lab0126_InterFace\obj\Debug\Lab0126_InterFace.pdb

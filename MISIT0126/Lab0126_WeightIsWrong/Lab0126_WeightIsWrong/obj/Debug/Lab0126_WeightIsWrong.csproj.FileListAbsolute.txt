@@ -1,0 +1,10 @@
+A:\MISIT\ADONET\MISITADO\Lab0126_WeightIsWrong\Lab0126_WeightIsWrong\bin\Debug\Lab0126_WeightIsWrong.exe.config
+A:\MISIT\ADONET\MISITADO\Lab0126_WeightIsWrong\Lab0126_WeightIsWrong\bin\Debug\Lab0126_WeightIsWrong.exe
+A:\MISIT\ADONET\MISITADO\Lab0126_WeightIsWrong\Lab0126_WeightIsWrong\bin\Debug\Lab0126_WeightIsWrong.pdb
+A:\MISIT\ADONET\MISITADO\Lab0126_WeightIsWrong\Lab0126_WeightIsWrong\obj\Debug\Lab0126_WeightIsWrong.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\MISITADO\Lab0126_WeightIsWrong\Lab0126_WeightIsWrong\obj\Debug\Lab0126_WeightIsWrong.Form1.resources
+A:\MISIT\ADONET\MISITADO\Lab0126_WeightIsWrong\Lab0126_WeightIsWrong\obj\Debug\Lab0126_WeightIsWrong.Properties.Resources.resources
+A:\MISIT\ADONET\MISITADO\Lab0126_WeightIsWrong\Lab0126_WeightIsWrong\obj\Debug\Lab0126_WeightIsWrong.csproj.GenerateResource.cache
+A:\MISIT\ADONET\MISITADO\Lab0126_WeightIsWrong\Lab0126_WeightIsWrong\obj\Debug\Lab0126_WeightIsWrong.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\MISITADO\Lab0126_WeightIsWrong\Lab0126_WeightIsWrong\obj\Debug\Lab0126_WeightIsWrong.exe
+A:\MISIT\ADONET\MISITADO\Lab0126_WeightIsWrong\Lab0126_WeightIsWrong\obj\Debug\Lab0126_WeightIsWrong.pdb

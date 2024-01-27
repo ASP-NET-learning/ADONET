@@ -1,0 +1,10 @@
+A:\MISIT\ADONET\MISITADO\Lab0126_Exception\Lab0126_Exception\bin\Debug\Lab0126_Exception.exe.config
+A:\MISIT\ADONET\MISITADO\Lab0126_Exception\Lab0126_Exception\bin\Debug\Lab0126_Exception.exe
+A:\MISIT\ADONET\MISITADO\Lab0126_Exception\Lab0126_Exception\bin\Debug\Lab0126_Exception.pdb
+A:\MISIT\ADONET\MISITADO\Lab0126_Exception\Lab0126_Exception\obj\Debug\Lab0126_Exception.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\MISITADO\Lab0126_Exception\Lab0126_Exception\obj\Debug\Lab0126_Exception.Form1.resources
+A:\MISIT\ADONET\MISITADO\Lab0126_Exception\Lab0126_Exception\obj\Debug\Lab0126_Exception.Properties.Resources.resources
+A:\MISIT\ADONET\MISITADO\Lab0126_Exception\Lab0126_Exception\obj\Debug\Lab0126_Exception.csproj.GenerateResource.cache
+A:\MISIT\ADONET\MISITADO\Lab0126_Exception\Lab0126_Exception\obj\Debug\Lab0126_Exception.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\MISITADO\Lab0126_Exception\Lab0126_Exception\obj\Debug\Lab0126_Exception.exe
+A:\MISIT\ADONET\MISITADO\Lab0126_Exception\Lab0126_Exception\obj\Debug\Lab0126_Exception.pdb

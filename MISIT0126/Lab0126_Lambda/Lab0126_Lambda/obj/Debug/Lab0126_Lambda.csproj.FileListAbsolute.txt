@@ -1,0 +1,10 @@
+A:\MISIT\ADONET\MISITADO\Lab0126_Lambda\Lab0126_Lambda\bin\Debug\Lab0126_Lambda.exe.config
+A:\MISIT\ADONET\MISITADO\Lab0126_Lambda\Lab0126_Lambda\bin\Debug\Lab0126_Lambda.exe
+A:\MISIT\ADONET\MISITADO\Lab0126_Lambda\Lab0126_Lambda\bin\Debug\Lab0126_Lambda.pdb
+A:\MISIT\ADONET\MISITADO\Lab0126_Lambda\Lab0126_Lambda\obj\Debug\Lab0126_Lambda.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\MISITADO\Lab0126_Lambda\Lab0126_Lambda\obj\Debug\Lab0126_Lambda.Form1.resources
+A:\MISIT\ADONET\MISITADO\Lab0126_Lambda\Lab0126_Lambda\obj\Debug\Lab0126_Lambda.Properties.Resources.resources
+A:\MISIT\ADONET\MISITADO\Lab0126_Lambda\Lab0126_Lambda\obj\Debug\Lab0126_Lambda.csproj.GenerateResource.cache
+A:\MISIT\ADONET\MISITADO\Lab0126_Lambda\Lab0126_Lambda\obj\Debug\Lab0126_Lambda.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\MISITADO\Lab0126_Lambda\Lab0126_Lambda\obj\Debug\Lab0126_Lambda.exe
+A:\MISIT\ADONET\MISITADO\Lab0126_Lambda\Lab0126_Lambda\obj\Debug\Lab0126_Lambda.pdb
