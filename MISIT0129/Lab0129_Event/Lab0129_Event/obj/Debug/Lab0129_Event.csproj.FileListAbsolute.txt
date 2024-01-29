@@ -1,0 +1,10 @@
+A:\MISIT\ADONET\物件導向\Lab0129_Event\Lab0129_Event\bin\Debug\Lab0129_Event.exe.config
+A:\MISIT\ADONET\物件導向\Lab0129_Event\Lab0129_Event\bin\Debug\Lab0129_Event.exe
+A:\MISIT\ADONET\物件導向\Lab0129_Event\Lab0129_Event\bin\Debug\Lab0129_Event.pdb
+A:\MISIT\ADONET\物件導向\Lab0129_Event\Lab0129_Event\obj\Debug\Lab0129_Event.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\物件導向\Lab0129_Event\Lab0129_Event\obj\Debug\Lab0129_Event.Form1.resources
+A:\MISIT\ADONET\物件導向\Lab0129_Event\Lab0129_Event\obj\Debug\Lab0129_Event.Properties.Resources.resources
+A:\MISIT\ADONET\物件導向\Lab0129_Event\Lab0129_Event\obj\Debug\Lab0129_Event.csproj.GenerateResource.cache
+A:\MISIT\ADONET\物件導向\Lab0129_Event\Lab0129_Event\obj\Debug\Lab0129_Event.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\物件導向\Lab0129_Event\Lab0129_Event\obj\Debug\Lab0129_Event.exe
+A:\MISIT\ADONET\物件導向\Lab0129_Event\Lab0129_Event\obj\Debug\Lab0129_Event.pdb

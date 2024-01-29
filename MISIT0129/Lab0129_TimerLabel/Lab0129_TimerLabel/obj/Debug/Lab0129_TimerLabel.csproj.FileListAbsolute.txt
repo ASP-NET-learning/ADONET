@@ -1,0 +1,8 @@
+A:\MISIT\ADONET\物件導向\Lab0129_TimerLabel\Lab0129_TimerLabel\bin\Debug\Lab0129_TimerLabel.dll
+A:\MISIT\ADONET\物件導向\Lab0129_TimerLabel\Lab0129_TimerLabel\bin\Debug\Lab0129_TimerLabel.pdb
+A:\MISIT\ADONET\物件導向\Lab0129_TimerLabel\Lab0129_TimerLabel\obj\Debug\Lab0129_TimerLabel.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\物件導向\Lab0129_TimerLabel\Lab0129_TimerLabel\obj\Debug\Lab0129_TimerLabel.CTimerLabel.resources
+A:\MISIT\ADONET\物件導向\Lab0129_TimerLabel\Lab0129_TimerLabel\obj\Debug\Lab0129_TimerLabel.csproj.GenerateResource.cache
+A:\MISIT\ADONET\物件導向\Lab0129_TimerLabel\Lab0129_TimerLabel\obj\Debug\Lab0129_TimerLabel.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\物件導向\Lab0129_TimerLabel\Lab0129_TimerLabel\obj\Debug\Lab0129_TimerLabel.dll
+A:\MISIT\ADONET\物件導向\Lab0129_TimerLabel\Lab0129_TimerLabel\obj\Debug\Lab0129_TimerLabel.pdb

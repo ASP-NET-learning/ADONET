@@ -1,0 +1,10 @@
+A:\MISIT\ADONET\物件導向\Lab0129_FileSystem\Lab0129_FileSystem\bin\Debug\Lab0129_FileSystem.exe.config
+A:\MISIT\ADONET\物件導向\Lab0129_FileSystem\Lab0129_FileSystem\bin\Debug\Lab0129_FileSystem.exe
+A:\MISIT\ADONET\物件導向\Lab0129_FileSystem\Lab0129_FileSystem\bin\Debug\Lab0129_FileSystem.pdb
+A:\MISIT\ADONET\物件導向\Lab0129_FileSystem\Lab0129_FileSystem\obj\Debug\Lab0129_FileSystem.csproj.AssemblyReference.cache
+A:\MISIT\ADONET\物件導向\Lab0129_FileSystem\Lab0129_FileSystem\obj\Debug\Lab0129_FileSystem.Form1.resources
+A:\MISIT\ADONET\物件導向\Lab0129_FileSystem\Lab0129_FileSystem\obj\Debug\Lab0129_FileSystem.Properties.Resources.resources
+A:\MISIT\ADONET\物件導向\Lab0129_FileSystem\Lab0129_FileSystem\obj\Debug\Lab0129_FileSystem.csproj.GenerateResource.cache
+A:\MISIT\ADONET\物件導向\Lab0129_FileSystem\Lab0129_FileSystem\obj\Debug\Lab0129_FileSystem.csproj.CoreCompileInputs.cache
+A:\MISIT\ADONET\物件導向\Lab0129_FileSystem\Lab0129_FileSystem\obj\Debug\Lab0129_FileSystem.exe
+A:\MISIT\ADONET\物件導向\Lab0129_FileSystem\Lab0129_FileSystem\obj\Debug\Lab0129_FileSystem.pdb
